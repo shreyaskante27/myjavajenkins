@@ -4,7 +4,7 @@
     <title>Online Recruitment Form</title>
 </head>
 <body>
-    <h1>Hello</h1>
+    <h1>Hello welcome to SE lab.</h1>
     <h2>Applying for a Job?</h2>
     
     <form action="apply.jsp" method="post">
