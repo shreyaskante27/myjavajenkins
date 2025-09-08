@@ -68,6 +68,3 @@
     </pluginManagement>  
   </build>  
 </project>
-Working with version control (github,gitlab)
-your team is developing an online Recruitment System. you are working on the application form (apply.js). you will collaborate with teammates by pulling remote changes, rebasing work.
-resolving merge conflicts, and pushing the final version to github.

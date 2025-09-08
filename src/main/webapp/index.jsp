@@ -5,7 +5,7 @@
 </head>
 <body>
     <h1>Welcome to the Online Recruitment System</h1>
-    <p>This is a simple web application built using JSP and Maven.</p>
+    <p>This is a simple web application built using JSP and Maven</p>
 
     <h3>What would you like to do?</h3>
     <ul>
