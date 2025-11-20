@@ -1,4 +1,3 @@
 # selab-internal
 **HI**
-Helloss
-bhenchod
+Hellos
